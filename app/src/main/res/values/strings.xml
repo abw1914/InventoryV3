@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">InventoryV3</string>
+    <string name="product">Product Name</string>
+    <string name="price">Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="SupplierName">Supplier Name</string>
+    <string name="SupplierPhone">Supplier Phone</string>
+    <string name="buttonText">Update</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_delete_all_entries">delete_menu</string>
+    <string name="show_data">Show Data</string>
+    <string name="editor_activity_title_new_product">NewProduct</string>
+    <string name="action_insert_dummy_data">insert_inventry</string>
+</resources>
