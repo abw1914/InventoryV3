@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
     protected void onStart() {
         super.onStart();
-        displayDatabaseInfo();
+        //displayDatabaseInfo();
     }
 
     private void displayDatabaseInfo() {
@@ -107,8 +107,8 @@ public class MainActivity extends AppCompatActivity {
 
         ContentValues values = new ContentValues();
         values.put(InventoryEntry.COLUMN_PRODUCT_NAME, "Headphone");
-        values.put(InventoryEntry.COLUMN_PRICE, "Terrier");
-        values.put(InventoryEntry.COLUMN_QUANTITY, "45");
+        values.put(InventoryEntry.COLUMN_PRICE, 34);
+        values.put(InventoryEntry.COLUMN_QUANTITY, 45);
         values.put(InventoryEntry.COLUMN_SUPPLIER_NAME, "Bose");
         values.put(InventoryEntry.COLUMN_SUPPLIER_PHONE, "451-909-3456");
 
